@@ -1,12 +1,11 @@
 import requests
 from send_email import send_email
 
+
 api_key = "3b74e7aabab643758956a199c7347554"
 url = "https://newsapi.org/v2/everything?q=tesla&" \
       "from=2023-04-14&sortBy=publishedAt&apiKey=" \
       "3b74e7aabab643758956a199c7347554"
-
-user_email = "app5-news-api-email"
 
 # Make request
 request = requests.get(url)
