@@ -6,7 +6,7 @@ Ensure that you have the following dependencies installed in your Python environ
 
 - requests
 - send_email module (custom module)
-- 
+  
 You can install the requests library by running the following command:
 
 Copy code
