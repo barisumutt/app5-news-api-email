@@ -9,8 +9,6 @@ Ensure that you have the following dependencies installed in your Python environ
   
 You can install the requests library by running the following command:
 
-Copy code
-
 ```bash
 pip install requests
 ```
