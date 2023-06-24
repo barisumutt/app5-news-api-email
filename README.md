@@ -1,4 +1,4 @@
-# Project Name
+# App 5 News Api Email
 This project retrieves news articles related to a specific topic from the News API and sends them via email using the requests library for making HTTP requests and a custom send_email module for sending emails.
 
 ## Prerequisites
